@@ -6,9 +6,9 @@ import axios from "axios";
 import fileDownloader from "nodejs-file-downloader";
 
 //用户token
-const token = "NjM5NDEwNDM5MDMzNDU0NTky.GTz8oE.56_lwiATqFSge-eLe62rRnkQHNNKN2u-dwJz_M";
+const token = "";
 //文件存储路径
-const imgSavePath = "C:/Users/chenj/Pictures/discord";
+const imgSavePath = "";
 
 let guildList = [];
 
