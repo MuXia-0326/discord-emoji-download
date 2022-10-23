@@ -1,0 +1,26 @@
+{
+    "name": "emojidownload",
+    "version": "1.0.0",
+    "description": "discord emoji download",
+    "main": "app.js",
+    "type": "module",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/MuXia-0326/emojiDownload.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/MuXia-0326/emojiDownload/issues"
+    },
+    "homepage": "https://github.com/MuXia-0326/emojiDownload#readme",
+    "dependencies": {
+        "axios": "^1.1.3",
+        "fs": "^0.0.1-security",
+        "nodejs-file-downloader": "^4.10.2"
+    }
+}
